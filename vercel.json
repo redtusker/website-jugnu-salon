@@ -1,0 +1,121 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "node tools/build.mjs",
+  "outputDirectory": "site",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/services/",
+      "destination": "/our-services/",
+      "permanent": true
+    },
+    {
+      "source": "/5-beauty-treatments-every-bride-should-get-before-her-wedding/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/bridal-hair-styling-how-to-choose-the-perfect-hairstyle-for-your-wedding-day/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/hydrafacial-vs-regular-facial-which-one-is-right-for-you/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/keratin-treatment-everything-you-need-to-know-before-your-appointment/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/the-benefits-of-professional-waxing-why-its-better-than-shaving/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/why-professional-nail-care-is-more-than-just-beauty/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/why-regular-manicure-pedicure-treatments-are-essential-for-healthy-hands-feet/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/why-self-care-is-more-important-than-ever/",
+      "destination": "/blog/",
+      "permanent": false
+    },
+    {
+      "source": "/why-your-hair-needs-a-professional-hair-spa-treatment/",
+      "destination": "/blog/",
+      "permanent": false
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/img/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=2592000"
+        }
+      ]
+    },
+    {
+      "source": "/assets/fonts/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=2592000"
+        }
+      ]
+    },
+    {
+      "source": "/assets/(css|js)/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=31536000; includeSubDomains"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self' 'sha256-xd4rKQAzxCbsqa5aTMsGcgVQnnfVk6uresa5F8bQltg='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; frame-src https://www.google.com https://maps.google.com; connect-src 'self'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests; frame-ancestors 'self'"
+        }
+      ]
+    }
+  ]
+}

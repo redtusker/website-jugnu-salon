@@ -1,0 +1,26 @@
+{
+  "_note": "Only one of the old site's ten blog posts could be recovered (the other nine return HTTP 500 and are not archived anywhere). Body migrated verbatim minus the internal SEO brief that had been published by mistake. The lost post slugs redirect to /blog/ until they are restored from a WordPress backup.",
+  "lost": [
+    "5-beauty-treatments-every-bride-should-get-before-her-wedding",
+    "bridal-hair-styling-how-to-choose-the-perfect-hairstyle-for-your-wedding-day",
+    "hydrafacial-vs-regular-facial-which-one-is-right-for-you",
+    "keratin-treatment-everything-you-need-to-know-before-your-appointment",
+    "the-benefits-of-professional-waxing-why-its-better-than-shaving",
+    "why-professional-nail-care-is-more-than-just-beauty",
+    "why-regular-manicure-pedicure-treatments-are-essential-for-healthy-hands-feet",
+    "why-self-care-is-more-important-than-ever",
+    "why-your-hair-needs-a-professional-hair-spa-treatment"
+  ],
+  "posts": [
+    {
+      "slug": "eyelash-extensions-everything-you-need-to-know-before-your-first-appointment",
+      "title": "Eyelash Extensions: Everything You Need to Know Before Your First Appointment",
+      "metaTitle": "Professional Eyelash Extensions in Islamabad | Jugnu's Salon & Studio",
+      "metaDesc": "Enhance your natural beauty with professional eyelash extensions at Jugnu's Salon & Studio. Benefits, aftercare tips and booking.",
+      "date": "2026-07-20",
+      "image": "lashes",
+      "excerpt": "Long, voluminous lashes can instantly enhance your appearance and make your eyes look more defined. Here's what to know before your first appointment.",
+      "html": "<p>Long, voluminous lashes can instantly enhance your appearance and make your eyes look more defined. That's why eyelash extensions have become one of the most popular beauty services among women who want a glamorous look without applying mascara every day. Whether you're preparing for a wedding, a party, or simply want to elevate your everyday style, professional eyelash extensions can make a noticeable difference.</p><p>At Jugnu's Salon &amp; Studio, our experienced beauty professionals provide high-quality eyelash extension services that are comfortable, lightweight, and customised to suit your eye shape and personal style.</p><h2>Why choose eyelash extensions?</h2><p>Eyelash extensions are designed to add length, volume, and curl to your natural lashes. Unlike strip lashes, they are individually applied for a natural and long-lasting finish. With proper care, eyelash extensions can last several weeks, making them a convenient beauty solution for busy lifestyles.</p><p>If you're planning a special event, pairing your lash appointment with our <a href=\"/makeup/\">bridal makeup services</a> or <a href=\"/hair/\">hair styling services</a> will help you achieve a complete, polished look.</p><h2>Benefits of professional eyelash extensions</h2><ul><li>Save time on your daily makeup routine.</li><li>Wake up with fuller, more defined lashes.</li><li>Enjoy a natural yet glamorous appearance.</li><li>Customise the length and volume to match your preferences.</li><li>Enhance your eyes without the need for mascara.</li></ul><p>Our lash specialists make sure every application is safe, precise, and tailored to complement your facial features.</p><h2>How to care for your lash extensions</h2><p>To keep your extensions looking their best, avoid rubbing your eyes, use oil-free makeup removers, and gently brush your lashes daily. Following the recommended aftercare routine helps maintain their beauty and extends their lifespan.</p><p>For the ultimate self-care experience, many of our clients combine eyelash extensions with <a href=\"/facials/\">facial treatments</a> or a relaxing <a href=\"/nails-self-care/\">manicure &amp; pedicure</a>, leaving the salon feeling refreshed and confident.</p><h2>Why choose Jugnu's Salon?</h2><p>At Jugnu's Salon &amp; Studio, we are committed to providing premium beauty services in a clean, comfortable, and welcoming environment. Our trained professionals use quality products and personalised techniques to ensure beautiful, long-lasting results.</p><p>Whether you prefer a natural everyday look or dramatic volume for a special occasion, we'll help you achieve lashes that perfectly suit your style. <a href=\"/contact-us/\">Book your appointment</a> and discover how professional eyelash extensions can transform your look.</p>"
+    }
+  ]
+}

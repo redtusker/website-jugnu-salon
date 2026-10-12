@@ -1,0 +1,8 @@
+# Netlify: import the GitHub repo; these settings are picked up automatically.
+# tools/build.mjs uses Netlify's $URL unless a SITE_URL environment variable is set.
+[build]
+  publish = "site"
+  command = "node tools/build.mjs"
+
+[build.environment]
+  NODE_VERSION = "22"

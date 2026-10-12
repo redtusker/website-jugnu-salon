@@ -1,0 +1,722 @@
+[
+ {
+  "id": "hero-bride",
+  "src": "WhatsApp-Image-2025-07-23-at-20.15.02-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.32,
+  "widths": [
+   480,
+   720,
+   960,
+   1200
+  ],
+  "alt": "Bride in a deep-red and gold lehenga with a matha patti and dupatta, makeup by Jugnu's",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "brides-group",
+  "src": "WhatsApp-Image-2025-07-23-at-19.54.14.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.45,
+  "widths": [
+   400,
+   640,
+   900
+  ],
+  "alt": "Four brides in gold, ivory and red bridal wear posing together",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-gown-hair",
+  "src": "WhatsApp-Image-2025-07-23-at-20.13.58-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.35,
+  "widths": [
+   400,
+   640,
+   900
+  ],
+  "alt": "Bride in a white lace gown with a tiara and long voluminous curls",
+  "tags": [
+   "bridal",
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-white",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.11-1-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.3,
+  "widths": [
+   400,
+   640,
+   900
+  ],
+  "alt": "Bride in a white ball gown with a sparkling tiara inside the salon",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-gold",
+  "src": "WhatsApp-Image-2025-07-23-at-19.54.14-1.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.4,
+  "widths": [
+   400,
+   640,
+   900
+  ],
+  "alt": "Bride in an ivory and gold outfit with a sheer dupatta",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-purple",
+  "src": "WhatsApp-Image-2025-07-23-at-20.14.05-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.3,
+  "widths": [
+   400,
+   640,
+   900
+  ],
+  "alt": "Bride in a mauve embroidered dupatta with soft glam makeup",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-green",
+  "src": "WhatsApp-Image-2025-07-23-at-20.14.01-1-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.3,
+  "widths": [
+   400,
+   640,
+   900
+  ],
+  "alt": "Bride in pistachio green with a gold matha patti and choker",
+  "tags": [
+   "bridal",
+   "party"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-red",
+  "src": "WhatsApp-Image-2025-07-23-at-20.15.04-1-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.3,
+  "widths": [
+   400,
+   640,
+   900
+  ],
+  "alt": "Bride in red with jhoomar, nath and bold eye makeup",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "mehndi-hands",
+  "src": "WhatsApp-Image-2025-07-23-at-19.54.21.jpeg",
+  "aspect": [
+   1,
+   1
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Bride showing intricate mehndi on both hands",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "party-braid",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.12-3.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.4,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Back view of a long, gold-accented braid on a guest in a colourful outfit",
+  "tags": [
+   "party",
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-60",
+  "src": "WhatsApp-Image-2025-07-23-at-20.14.00-2.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.3,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Bridal makeup with a statement maang tikka and layered necklaces",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-63",
+  "src": "WhatsApp-Image-2025-07-23-at-20.14.02.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.3,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Barat bride in red and gold with traditional jewellery",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-68",
+  "src": "WhatsApp-Image-2025-07-23-at-20.15.03-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.35,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Bride seated in a red bridal lehenga in the salon",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-88",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.15-1.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.35,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Bride in red with gold jewellery photographed in the salon",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-89",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.15.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.35,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Bride in an ivory and gold sharara holding a bouquet",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-90",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.16.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.4,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Side profile of a bridal bun decorated with red roses",
+  "tags": [
+   "bridal",
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-100",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.29-1-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.3,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Bride in maroon with soft curls and gold jewellery",
+  "tags": [
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bride-109",
+  "src": "WhatsApp-Image-2025-07-31-at-04.44.11.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.3,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Mehndi bride in red and green with floral jewellery",
+  "tags": [
+   "bridal",
+   "party"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "bun-92",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.18-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.4,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Stylist finishing a sleek bridal bun with pearl pins",
+  "tags": [
+   "hair",
+   "bridal"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "hair-before-after",
+  "src": "WhatsApp-Image-2025-07-23-at-19.54.28-scaled.jpeg",
+  "aspect": [
+   1,
+   1
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640,
+   900
+  ],
+  "alt": "Before and after: straight brunette hair restyled into glossy reddish-brown curls",
+  "tags": [
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "hair-waves-before-after",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.30-3.jpeg",
+  "aspect": [
+   1,
+   1
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Before and after collage: brassy blonde hair corrected to soft honey-brown waves",
+  "tags": [
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "hair-102",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.30-1.jpeg",
+  "aspect": [
+   1,
+   1
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Before and after collage of long hair coloured to a soft ash blonde",
+  "tags": [
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "hair-106",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.31.jpeg",
+  "aspect": [
+   1,
+   1
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Before and after: dark hair given rich chocolate dimension and curls",
+  "tags": [
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "hair-83",
+  "src": "WhatsApp-Image-2025-07-23-at-20.15.08-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Long hair with honey-blonde balayage in loose waves",
+  "tags": [
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "hair-95",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.26-1-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.45,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Back view of shoulder-length hair with caramel balayage curls",
+  "tags": [
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "hair-97",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.27-1-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.45,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Long, sleek ash-brown hair after a smoothing treatment",
+  "tags": [
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "hair-38",
+  "src": "WhatsApp-Image-2025-07-23-at-19.54.02.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.4,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Copper-red hair colour with a glossy finish",
+  "tags": [
+   "hair"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "lashes",
+  "src": "WhatsApp-Image-2025-07-23-at-20.29.27-2-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Close-up of an eye with full, natural-looking lash extensions",
+  "tags": [
+   "skin"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "hydra-result",
+  "src": "WhatsApp-Image-2025-07-31-at-04.48.57-1.jpeg",
+  "aspect": [
+   4,
+   3
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Before and after HydraFacial: visibly smoother, clearer skin on the nose and cheek",
+  "tags": [
+   "skin"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "lash-before-after",
+  "src": "WhatsApp-Image-2025-07-23-at-19.54.26.jpeg",
+  "aspect": [
+   1,
+   1
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Before and after lash extensions showing fuller, curled lashes",
+  "tags": [
+   "skin"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "interior-wall",
+  "src": "WhatsApp-Image-2025-07-23-at-20.15.06-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.45,
+  "widths": [
+   480,
+   800,
+   1100
+  ],
+  "alt": "Salon interior with a white feature wall reading HAIR, SKIN, MAKEUP beside Arabic calligraphy",
+  "tags": [
+   "salon"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "interior-floor",
+  "src": "WhatsApp-Image-2025-07-23-at-20.15.07-1-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640,
+   900
+  ],
+  "alt": "Bright salon floor with black styling chairs, round mirrors and LED lighting",
+  "tags": [
+   "salon"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "interior-lounge",
+  "src": "WhatsApp-Image-2025-07-23-at-20.15.07-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.55,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Reception lounge with a marble counter and pedicure stations",
+  "tags": [
+   "salon"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "interior-wash",
+  "src": "WhatsApp-Image-2025-07-23-at-20.15.07-2-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.55,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Hair-wash stations in a clean white room",
+  "tags": [
+   "salon"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "jugnu-waseem",
+  "src": "WhatsApp-Image-2025-07-21-at-13.30.49-3-e1753893546798.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.35,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Jugnu Waseem, founder and chairman of Jugnu Salon, speaking to the media",
+  "tags": [
+   "team"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "nafeesa-hussain",
+  "src": "WhatsApp-Image-2025-07-30-at-05.47.37-scaled.jpeg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.3,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Nafeesa Hussain, CEO of Jugnu Salon, speaking at a beauty industry event",
+  "tags": [
+   "team"
+  ],
+  "credit": "Jugnu's Salon"
+ },
+ {
+  "id": "nails-nude",
+  "src": "chelson-tamares-XldjmYB7JpU-unsplash-scaled.jpg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Neat nude manicure resting on a soft white surface",
+  "tags": [
+   "nails"
+  ],
+  "credit": "Unsplash"
+ },
+ {
+  "id": "nails-red-art",
+  "src": "designecologist-r-Ej0NQmFlQ-unsplash-1-scaled.jpg",
+  "aspect": [
+   4,
+   3
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Glossy red nail art with heart details",
+  "tags": [
+   "nails"
+  ],
+  "credit": "Unsplash"
+ },
+ {
+  "id": "nails-polish",
+  "src": "jesse-donoghoe-2aiP_wxNrfU-unsplash-1-scaled.jpg",
+  "aspect": [
+   4,
+   5
+  ],
+  "focal": 0.5,
+  "widths": [
+   400,
+   640
+  ],
+  "alt": "Nail technician applying polish during a manicure",
+  "tags": [
+   "nails"
+  ],
+  "credit": "Unsplash"
+ }
+]

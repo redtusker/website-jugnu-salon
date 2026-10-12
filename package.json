@@ -1,0 +1,18 @@
+{
+  "name": "jugnu-salon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website for Jugnu's Salon & Studio (I-8 Markaz, F-7 Markaz, Jhelum). Static site generated from src/ into site/.",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "generate": "node tools/generate.mjs",
+    "preview": "node tools/generate.mjs && node tools/preview-server.mjs 4103",
+    "check": "node tools/generate.mjs && node tools/check.mjs",
+    "build": "node tools/build.mjs",
+    "demo:on": "node tools/demo-mode.mjs on",
+    "demo:off": "node tools/demo-mode.mjs off",
+    "assets:images": "python tools/process-images.py",
+    "assets:instagram": "python tools/process-instagram.py",
+    "assets:fonts": "node tools/fetch-fonts.mjs && python tools/subset-fonts.py"
+  }
+}

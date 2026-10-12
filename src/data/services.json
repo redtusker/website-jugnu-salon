@@ -1,0 +1,94 @@
+{
+  "_note": "Service menu and category copy migrated from the old site (/our-services/, /hair/, /makeup/, /facials/, /nails-self-care/), with typos fixed. No prices were published on the old site, so none are shown.",
+  "categories": [
+    {
+      "slug": "hair",
+      "page": "/hair/",
+      "title": "Hair",
+      "h1": "Hair services in Islamabad & Jhelum",
+      "kicker": "Style. Shine. Confidence.",
+      "metaTitle": "Hair Salon in Islamabad & Jhelum | Cuts, Colour & Treatments | Jugnu's",
+      "metaDesc": "Haircuts, balayage, highlights, keratin, Xtenso and bridal hairstyling at Jugnu's Salon in I-8 Markaz, F-7 Markaz and Jhelum. Walk-ins welcome.",
+      "hero": "hair-before-after",
+      "summary": "Cuts, colour, smoothing treatments and bridal hairdos, with your hair's health in mind.",
+      "intro": "Get the hair you've always wanted: soft, shiny and full of life. Our stylists specialise in custom haircuts, expert colour, nourishing treatments and bridal hairstyling. Whether you want a bold change or a subtle refresh, we combine style with care to bring out your best look.",
+      "features": [
+        { "h": "Haircuts & styling", "p": "From trendy bobs to layered glam, we create styles that suit your face, lifestyle and vibe. Blow-outs, curls or straightening: whatever the look, we style it to perfection." },
+        { "h": "Colour & highlights", "p": "Rich tones, balayage, ombré, global colour or highlights, with damage-minimising formulas and precise technique. We'll help you find your perfect shade." },
+        { "h": "Hair treatments", "p": "Keratin, protein and oil-based treatments for damaged, dry or frizzy hair. Salon-grade formulas restore natural softness and strength." },
+        { "h": "Bridal & event hairstyling", "p": "Sleek buns, voluminous waves and intricate braids, designed to stay in place through ceremonies, photos and all-night celebrations." }
+      ],
+      "gallery": ["hair-before-after", "hair-waves-before-after", "hair-83", "hair-95", "bun-92", "hair-106", "hair-97", "hair-38"],
+      "menu": ["hair"]
+    },
+    {
+      "slug": "makeup",
+      "page": "/makeup/",
+      "title": "Makeup & Bridal",
+      "h1": "Bridal & party makeup",
+      "kicker": "Own the spotlight at any event.",
+      "metaTitle": "Bridal & Party Makeup in Islamabad & Jhelum | Jugnu's Salon",
+      "metaDesc": "Barat, walima, nikkah, mehndi and party makeup by Jugnu's artists, with HD and Signature looks and bridal trials. Book at I-8 Markaz, F-7 or Jhelum.",
+      "hero": "bride-red",
+      "summary": "Barat, walima, nikkah, mehndi and party looks, with HD finishes and bridal trials.",
+      "intro": "Makeup is more than beauty: it's transformation, expression and confidence. Whether you're walking down the aisle, attending a party or stepping into the spotlight, our artists create looks that enhance your natural features. From soft glam to full bridal elegance, we specialise in high-definition, long-lasting, picture-perfect results.",
+      "features": [
+        { "h": "Bridal makeup", "p": "Timeless looks with high-end, long-wear products that stay flawless through every ceremony, camera flash and celebration: soft glam, traditional elegance or modern chic." },
+        { "h": "Party & event makeup", "p": "Bold eyes or subtle glam, customised to your outfit, event and mood. Ideal for birthdays, engagements, dholkis and every occasion in between." },
+        { "h": "HD & Signature makeup", "p": "An airbrushed finish in person and on camera. Our Signature technique blends coverage, contour and glow for high-definition results." },
+        { "h": "Trials & consultations", "p": "Book a personal trial to explore bridal styles, colour tones and products, so you can decide with confidence before your big day." }
+      ],
+      "gallery": ["bride-red", "bride-purple", "bride-green", "bride-gold", "brides-group", "bride-63", "bride-109", "mehndi-hands"],
+      "menu": ["makeup"]
+    },
+    {
+      "slug": "facials",
+      "page": "/facials/",
+      "title": "Facials & Skin",
+      "h1": "Facials & skin treatments",
+      "kicker": "Because radiant skin is always in.",
+      "metaTitle": "Facials & HydraFacial in Islamabad & Jhelum | Jugnu's Salon",
+      "metaDesc": "HydraFacial, Janssen and Thalgo facials, whitening, gold facials, polishing and lash services at Jugnu's Salon: I-8 Markaz, F-7 Markaz and Jhelum.",
+      "hero": "hydra-result",
+      "summary": "HydraFacial, Janssen and Thalgo facials, polishing and lash extensions.",
+      "intro": "We don't just treat skin, we transform it. Our aestheticians use advanced techniques and premium skincare to deeply cleanse, hydrate and rejuvenate. From glow facials to acne care, every treatment is designed to bring out your natural radiance.",
+      "features": [
+        { "h": "HydraFacial", "p": "A multi-step, non-invasive treatment that cleanses, exfoliates and hydrates, with a serum infusion and hydration boost. Suitable for all skin types and ideal before weddings or events." },
+        { "h": "Custom facials", "p": "Tailored to dullness, dryness or breakouts: deep cleansing, exfoliation, massage and intense nourishment with Janssen and Thalgo." },
+        { "h": "Skin therapies", "p": "Microdermabrasion, derma-polishing and peels to help with pigmentation, fine lines and acne marks." },
+        { "h": "Lash extensions", "p": "Individually applied lashes for fuller, defined eyes, customised to your eye shape for a natural, long-lasting finish." }
+      ],
+      "gallery": ["hydra-result", "lashes", "lash-before-after", "interior-lounge"],
+      "menu": ["facials", "threading"]
+    },
+    {
+      "slug": "nails-self-care",
+      "page": "/nails-self-care/",
+      "title": "Nails & Self-Care",
+      "h1": "Nails, mani-pedi & self-care",
+      "kicker": "Polished to perfection.",
+      "metaTitle": "Nail Extensions, Gel Nails & Mani-Pedi in Islamabad | Jugnu's Salon",
+      "metaDesc": "Acrylic and gel extensions, nail art, whitening mani-pedis, paraffin, massage and waxing at Jugnu's Salon in I-8 Markaz, F-7 Markaz and Jhelum.",
+      "hero": "nails-red-art",
+      "summary": "Gel and acrylic extensions, nail art, mani-pedis, waxing and massage.",
+      "intro": "Every detail matters, right down to your fingertips. Our nail technicians and beauty therapists provide precise manicures, long-lasting gel treatments and deeply relaxing self-care, from bold nail art to classic elegance.",
+      "features": [
+        { "h": "Manicures & pedicures", "p": "Exfoliation, massage, cuticle care and polish in a hygienic, calm setting. Choose classic, French, gel or custom nail art." },
+        { "h": "Gel & acrylic extensions", "p": "Sculpted almond, square or stiletto tips that look flawless and feel natural." },
+        { "h": "Self-care & relaxation", "p": "Hand and foot massages, scrubs and softening treatments. Add paraffin wax or a hydrating mask for next-level care." },
+        { "h": "Waxing & body", "p": "Hygienic threading and waxing, plus full-body massage, scrubs and polishing to melt away stress." }
+      ],
+      "gallery": ["nails-red-art", "nails-nude", "nails-polish", "interior-lounge"],
+      "menu": ["nails", "manipedi", "body", "threading"]
+    }
+  ],
+  "menu": {
+    "makeup": { "title": "Makeup", "items": ["Barat Bride", "Walima Bride", "Nikkah", "Engagement Bride", "Mehndi", "Mayoun", "Dua-e-Khair", "Party Makeup (Signature)", "Party Makeup (Senior Artist)", "Simple Party Makeup", "Lenses", "Eyelashes", "Eyeliner"] },
+    "hair": { "title": "Hair", "items": ["Bridal Hairdo + Dupatta Setting", "Dupatta Setting", "Hairstyling", "Haircut", "Highlights", "Lowlights", "Balayage", "Hair Dye", "Dye Application", "Streaking", "L'Oréal Hair Treatment", "Bremod Hair Treatment", "Keratin", "Xtenso", "Hair Straightening"] },
+    "facials": { "title": "Facials", "items": ["HydraFacial", "Janssen Glow Facial", "Janssen Whitening Ampoule", "Thalgo Facial", "Whitening Facial", "Gold Facial", "Deep Cleansing", "Bleach", "Polisher"] },
+    "nails": { "title": "Nails", "items": ["Acrylic Nails", "Gel Nails", "Nail Extensions", "Gel Nail Paint", "French Tips", "Ombré Nails", "Simple Nail Paint"] },
+    "manipedi": { "title": "Manicure & Pedicure", "items": ["Gena Manicure (Special)", "Basic Manicure", "Whitening Manicure", "Basic Pedicure", "Whitening Pedicure", "Whitening Glow Mask", "Paraffin"] },
+    "threading": { "title": "Threading & Waxing", "items": ["Eyebrow Threading", "Upper Lip Threading", "Full Face Threading", "Full Face Wax with Mask", "Forehead Wax", "Nose Wax", "Chin Wax", "Sideburn Wax", "Underarm Wax", "Half / Full Arms Wax", "Half / Full Legs Wax", "Belly Wax", "Back Neck Wax", "Full Body Wax", "Brazilian Wax"] },
+    "body": { "title": "Body & Massage", "items": ["Full Body Massage", "Head, Neck & Shoulder Massage", "Head Oiling", "Head Wash", "Full Body Scrub", "Full Body Polishing"] }
+  }
+}

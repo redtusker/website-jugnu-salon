@@ -1,0 +1,78 @@
+{
+  "_note": "Verified branch data (docs/BRANCH_RESEARCH.md). hours: [open, close] 24h per day, index 0 = Sunday. whatsapp: true only where the salon itself shows WhatsApp for that number.",
+  "branches": [
+    {
+      "slug": "i-8-markaz",
+      "name": "Jugnu's Salon I-8 Markaz",
+      "short": "I-8 Markaz",
+      "city": "Islamabad",
+      "region": "Islamabad Capital Territory",
+      "postal": "44790",
+      "street": "Interlace Plaza, First Floor, I-8 Markaz",
+      "landmark": "First floor of Interlace Plaza",
+      "plus": "M38G+VM",
+      "geo": [33.6671886, 73.0766367],
+      "cid": "11554438272124405121",
+      "phones": [
+        { "display": "0305-5959954", "tel": "+923055959954", "whatsapp": true, "label": "Mobile & WhatsApp" },
+        { "display": "051-4444318", "tel": "+92514444318", "label": "Landline" },
+        { "display": "051-4444419", "tel": "+92514444419", "label": "Landline" }
+      ],
+      "email": "bookings@jugnusalon.com",
+      "hours": [["10:30","20:30"],["10:30","20:30"],["10:30","20:30"],["10:30","20:30"],["10:30","20:30"],["10:30","20:30"],["10:30","20:30"]],
+      "rating": "4.7", "reviews": "1,187",
+      "social": { "label": "@jugnusaloni8markaz", "href": "https://www.instagram.com/jugnusaloni8markaz/" },
+      "image": "bride-white",
+      "intro": "Our I-8 Markaz salon is on the first floor of Interlace Plaza. It's our highest-rated branch on Google, with 4.7 stars from more than 1,100 reviews."
+    },
+    {
+      "slug": "f-7-markaz",
+      "name": "Jugnu's Salon F-7 Markaz",
+      "short": "F-7 Markaz",
+      "city": "Islamabad",
+      "region": "Islamabad Capital Territory",
+      "postal": "46000",
+      "street": "Block 15, Bhittai Road, Jinnah Super Market, F-7 Markaz",
+      "landmark": "Jinnah Super Market, Bhittai Road",
+      "plus": "P393+FPG",
+      "geo": [33.718673, 73.054323],
+      "cid": "8821517963718936242",
+      "phones": [
+        { "display": "051-2654443", "tel": "+92512654443", "label": "Landline" }
+      ],
+      "email": "salonjugnus@gmail.com",
+      "hours": [["08:30","20:00"],["10:30","20:00"],["10:30","20:00"],["10:30","20:00"],["10:30","20:00"],["10:30","20:00"],["10:30","20:00"]],
+      "rating": "4.3", "reviews": "1,303",
+      "social": { "label": "Facebook · Jugnu's Salon F-7", "href": "https://www.facebook.com/jugnusF7/" },
+      "image": "bride-63",
+      "intro": "Our F-7 Markaz salon is in Jinnah Super Market on Bhittai Road, with more than 1,300 Google reviews."
+    },
+    {
+      "slug": "jhelum",
+      "name": "Jugnu's Salon Jhelum",
+      "short": "Jhelum",
+      "city": "Jhelum",
+      "region": "Punjab",
+      "postal": "49600",
+      "street": "Deen Arcade, Civil Line, near Junaid Jamshed, opposite Soldier Arcade",
+      "landmark": "Deen Arcade, opposite Soldier Arcade",
+      "plus": "WPMM+5Q",
+      "geo": [32.9329836, 73.734439],
+      "cid": "14180350879793469066",
+      "phones": [
+        { "display": "0332-0004747", "tel": "+923320004747", "label": "Mobile" }
+      ],
+      "email": "bookings@jugnusalon.com",
+      "hours": [["10:30","20:30"],["10:30","20:30"],["10:30","20:30"],["10:30","20:30"],["10:30","20:30"],["10:30","20:30"],["10:30","20:30"]],
+      "rating": "4.5", "reviews": "942",
+      "social": { "label": "@jugnusjhelum1", "href": "https://www.instagram.com/jugnusjhelum1/" },
+      "image": "bride-green",
+      "intro": "Our Jhelum salon is in Deen Arcade on Civil Line, near Junaid Jamshed and opposite Soldier Arcade, bringing Jugnu's bridal and beauty services to Jhelum."
+    }
+  ],
+  "network": [
+    { "name": "Head Office", "area": "Chaklala Scheme 3, Rawalpindi" },
+    { "name": "Bahria Phase 4", "area": "Rawalpindi" },
+    { "name": "E-11/4", "area": "Islamabad" }
+  ]
+}

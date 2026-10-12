@@ -1,0 +1,54 @@
+{
+  "_note": "Brand-level data. Every fact traces to docs/BRANCH_RESEARCH.md. `demo` is toggled by tools/demo-mode.mjs.",
+  "demo": true,
+  "name": "Jugnu's Salon & Studio",
+  "short": "Jugnu's",
+  "tagline": "The Hair | Makeup | Skin Specialist",
+  "glow": "Glow like a Jugnu",
+  "since": "2005",
+  "email": "bookings@jugnusalon.com",
+  "phone": { "display": "0302-9888826", "tel": "+923029888826" },
+  "policy": "Walk-ins welcome. Pre-booking is needed for makeup.",
+  "locale": "en_PK",
+  "founder": "Jugnu Waseem",
+  "ceo": "Nafeesa Hussain",
+  "stats": [
+    { "n": "20 yrs", "l": "of bridal and everyday glam, since 2005" },
+    { "n": "60+", "l": "Jugnu's branches and franchises across Pakistan" },
+    { "n": "3,400+", "l": "Google reviews across our three branches" },
+    { "n": "4.7", "l": "Google rating at I-8 Markaz (1,187 reviews)" }
+  ],
+  "products": ["L'Oréal Professionnel", "MAC", "NARS", "NYX Professional Makeup", "Dior", "Janssen Cosmetics", "Thalgo", "Bremod", "Xtenso"],
+  "deals": [
+    { "title": "Student Deals", "text": "Student packages from the hair, makeup and skin specialists. Ask your branch for this month's deal.", "img": "hl-student-deals.webp" },
+    { "title": "Working Ladies Deals", "text": "Packages for working women. Ask your branch what's included this month.", "img": "hl-working-ladies.webp" },
+    { "title": "Seasonal deals", "text": "Festive offers, like our Azaadi deals, are announced on Instagram first.", "img": "hl-azaadi-deals.webp" }
+  ],
+  "nav": [
+    { "label": "Services", "href": "/our-services/", "children": [
+      { "label": "Hair", "href": "/hair/" },
+      { "label": "Makeup & Bridal", "href": "/makeup/" },
+      { "label": "Facials & Skin", "href": "/facials/" },
+      { "label": "Nails & Self-Care", "href": "/nails-self-care/" },
+      { "label": "Full service menu", "href": "/our-services/" }
+    ]},
+    { "label": "Branches", "href": "/branches/" },
+    { "label": "Gallery", "href": "/gallery/" },
+    { "label": "About", "href": "/about-us/" },
+    { "label": "Blog", "href": "/blog/" },
+    { "label": "Contact", "href": "/contact-us/" }
+  ],
+  "socials": [
+    { "label": "Instagram · I-8 Markaz", "href": "https://www.instagram.com/jugnusaloni8markaz/" },
+    { "label": "Instagram · Jhelum", "href": "https://www.instagram.com/jugnusjhelum1/" },
+    { "label": "Facebook · F-7", "href": "https://www.facebook.com/jugnusF7/" }
+  ],
+  "faq": [
+    { "q": "Do I need an appointment?", "a": "Walk-ins are welcome for hair, skin, nails and waxing. Makeup, including bridal and party makeup, needs to be pre-booked. Call your branch or send a booking request." },
+    { "q": "Which branch should I visit?", "a": "We have salons at I-8 Markaz and F-7 Markaz in Islamabad, and in Civil Line, Jhelum. Each branch page lists its address, phone number, opening hours and directions." },
+    { "q": "What are your opening hours?", "a": "I-8 Markaz and Jhelum are open every day from 10:30 AM to 8:30 PM. F-7 Markaz is open 10:30 AM to 8 PM, and from 8:30 AM on Sundays. Hours can change on public holidays, so please call ahead." },
+    { "q": "How much do your services cost?", "a": "Prices depend on the service, hair length and the artist (for example, Signature or Senior Artist makeup). Call your branch for a quote, and ask about our Student and Working Ladies deals." },
+    { "q": "Do you offer bridal trials?", "a": "Yes. You can book a makeup trial and consultation to explore looks, tones and products before your event." },
+    { "q": "Which products do you use?", "a": "Professional brands including L'Oréal Professionnel, MAC, NARS, NYX, Dior, Janssen Cosmetics, Thalgo, Bremod and Xtenso." }
+  ]
+}
