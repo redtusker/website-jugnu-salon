@@ -2,7 +2,7 @@
 
 Times are local (UTC-07:00). A workspace-level log (all client sites) is kept outside this repository.
 
-## [1.0.0] 2026-10-11 22:00: rebuild of jugnusalon.com (prompt P-007)
+## [1.0.0] 2026-10-11 20:53: rebuild of jugnusalon.com (prompt P-007)
 ### Research
 - Crawled the old site (10 pages, 10 posts), Instagram (I-8 Markaz, Jhelum), Facebook (F-7), and Google Maps (I-8, F-7, Jhelum, Chaklala Scheme 3).
 - 18-point audit: expired SSL, PHP 8.1 vs 8.3 errors (robots, sitemaps, API, feed, search → 500), cache-only homepage, broken `/services/`, 9/10 posts lost, SEO brief published in a post, price list with no prices, Instagram link to another franchise, conflicting hours and addresses.
